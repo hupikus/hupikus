@@ -1,5 +1,5 @@
 - 🚀 Hupik here
-- 📝Learning opportunities: C, C++, C#, PHP, python  (Rust (much later))
+- 📝Will study: C, C++, C#, PHP, python  (Rust (much later))
 - 📯Most active repos:
 - - 🏅CLIsma, a console desktop environment for Linux
 - - 🥈Vivianite, scripting-based video editor written in C++
