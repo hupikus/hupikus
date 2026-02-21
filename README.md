@@ -1,4 +1,4 @@
-Hupik
+Hupik  
 Slowly migrating from github to https://vancuum.com
 - Most active repos:
 - - CLIsma, a console desktop environment for Linux
