@@ -1,5 +1,6 @@
 Hupik  
-Slowly migrating from github to https://vancuum.com
+Migrated to https://git.vancuum.com
+
 - Most active repos:
 - - CLIsma, a console desktop environment for Linux
 - - Vivianite, scripting-based video editor written in C++
